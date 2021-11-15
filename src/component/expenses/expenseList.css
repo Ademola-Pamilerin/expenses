@@ -1,0 +1,11 @@
+.empty-expense{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(204, 192, 204);
+  }
+  ul{
+    list-style: none;
+  }
